@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.29bc8131.css",
-    "main.js": "/static/js/main.0813eb47.js",
-    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/sangit.gif": "/static/media/sangit.5050dc339581b8c3f714.gif",
-    "static/media/todo.gif": "/static/media/todo.ec7cd5e8ed2cce395015.gif",
-    "static/media/shopping.webp": "/static/media/shopping.ef48631399fb74cd6c83.webp",
-    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/pothole.webp": "/static/media/pothole.211de8cfba524ac9ce95.webp",
-    "static/media/ResumeOmkarDOC.pdf": "/static/media/ResumeOmkarDOC.265c55c491dc9fff4f86.pdf",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/finance.png": "/static/media/finance.35a534d71e19bc55d40b.png",
-    "static/media/logo.png": "/static/media/logo.5ff500d5fbe9c1f8bcc6.png",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/index.html",
-    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
-    "main.0813eb47.js.map": "/static/js/main.0813eb47.js.map",
-    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/OmkarPortfolio/static/css/main.accb4c1d.css",
+    "main.js": "/OmkarPortfolio/static/js/main.4364e60b.js",
+    "static/js/415.4d6acbeb.chunk.js": "/OmkarPortfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/OmkarPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/sangit.gif": "/OmkarPortfolio/static/media/sangit.5050dc339581b8c3f714.gif",
+    "static/media/todo.gif": "/OmkarPortfolio/static/media/todo.ec7cd5e8ed2cce395015.gif",
+    "static/media/shopping.webp": "/OmkarPortfolio/static/media/shopping.ef48631399fb74cd6c83.webp",
+    "static/media/home-main.svg": "/OmkarPortfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/pothole.webp": "/OmkarPortfolio/static/media/pothole.211de8cfba524ac9ce95.webp",
+    "static/media/ResumeOmkarDOC.pdf": "/OmkarPortfolio/static/media/ResumeOmkarDOC.265c55c491dc9fff4f86.pdf",
+    "static/media/about.png": "/OmkarPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/finance.png": "/OmkarPortfolio/static/media/finance.35a534d71e19bc55d40b.png",
+    "static/media/logo.png": "/OmkarPortfolio/static/media/logo.5ff500d5fbe9c1f8bcc6.png",
+    "static/media/home-bg.jpg": "/OmkarPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/OmkarPortfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/OmkarPortfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/OmkarPortfolio/index.html",
+    "main.accb4c1d.css.map": "/OmkarPortfolio/static/css/main.accb4c1d.css.map",
+    "main.4364e60b.js.map": "/OmkarPortfolio/static/js/main.4364e60b.js.map",
+    "415.4d6acbeb.chunk.js.map": "/OmkarPortfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/OmkarPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29bc8131.css",
-    "static/js/main.0813eb47.js"
+    "static/css/main.accb4c1d.css",
+    "static/js/main.4364e60b.js"
   ]
 }
